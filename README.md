@@ -92,7 +92,7 @@ _C.	Adapting to the stressor [4]_
 
 ❖	Furthermore, it is important to practice gratitude, this simple strategy can help someone to keep things in perspective. 
 
-D.	Accepting the things that can’t be changed [4]
+_D.	Accepting the things that can’t be changed [4]_
 
 ❖	It is wise to accept the situation when the sources or events are unavoidable. It is suggested not to control the uncontrollable situation rather look for the upside and learn from the mistakes. It is also important to practice forgiveness, it has some positive impact. At the same time sharing the feelings are also important in this regard. 
 
