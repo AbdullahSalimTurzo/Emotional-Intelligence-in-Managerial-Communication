@@ -139,7 +139,7 @@ In conclusion, emotional intelligence is not only a "soft skill" but also a foun
 
 **_Institute of Business Administration (IBA), Jahangirnagar University, Savar, Dhaka._**
 
-**_MBA Coursework, BUS 501 - Managerial Communication._**
+_MBA Coursework, BUS 501 - Managerial Communication._
 
 _Submitted to: Baktiar Rana_
 
