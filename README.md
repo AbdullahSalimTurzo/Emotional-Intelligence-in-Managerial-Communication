@@ -148,4 +148,4 @@ _Submitted to: Baktiar Rana_
 
 Abdullah Salim Turja | Student | MBA (Weekend) | Batch - 34 | IBA – JU, Dhaka
 
-Email: abdullahsalim.ibaju@gmail.com 
+Email: [abdullahsalim.ibaju@gmail.com ](mailto:abdullahsalim.ibaju@gmail.com )
