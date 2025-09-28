@@ -2,20 +2,20 @@
 
 
 **Abstract** 
-
+--
 Use of Emotional Intelligence  in Managerial Communication  in the context of Bangladesh. EI skills enhance communication behavior in work groups and improve the quality of student responses to various business scenarios. Scientific research indicates that modeling social and emotional behavior is key to acquiring competency in these skills.
 Use of Emotional Intelligence in Managerial   Communication in the context of Bangladesh. 
 
 **Introduction**
-
+--
 In an increasingly complex and competitive global market, the success of organizations in Bangladesh is no longer solely dependent on technical skills and academic qualifications. Instead, a new paradigm is emerging where emotional intelligence (EI) is recognized as a crucial driver of effective leadership and organizational performance. Daniel Goleman mentioned in his landmark 1995 book, Emotional Intelligence: Why It Can Matter More Than IQ.  Emotional Intelligence is also a far more powerful predictor of success in life than IQ alone. He draws on neuroscience and psychology to show that while IQ can get someone a job or a degree, it is emotional intelligence that determines who will be a strong leader, who will build lasting relationships, and who will be resilient in the face of life's challenges.
 
 **Keywords**
-
+--
 Interpersonal Communication, teamwork, motivation, social and emotional skills, stress management, leadership. 
 
 **Main Components**
-
+--
 _A.	Goleman identified the five 'domains' of Emotional Intelligence as_ ; 
 
 1.	Self-Awareness
@@ -49,7 +49,7 @@ _B.	Components:_ [1]
 
 
 **Importance of Emotional Intelligence**
-
+--
 ●	In leadership
 
 ●	In workplace
@@ -58,6 +58,10 @@ _B.	Components:_ [1]
 
 ●	In relationship
 
+
+
+**Description of Components**
+--
 
 Emotional intelligence is not a single skill but a cluster of abilities that are vital for success and well-being in all aspects of life. Its importance can be seen across various domains.
 
@@ -122,12 +126,12 @@ Social skills are learned behaviors that facilitate interaction with others in t
 A study was conducted and sought to answer whether possessing social skills, which stipulated that emotional intelligence and social skills, especially empathy, could predict the attitude towards communication of nurses, and on the other hand, which stated that the absence of social skills would predict the absence of attitude towards communication of nurses. It was revealed that in the case of professional women, only emotional repair predicted attitude towards communication. In student nurses emotional care and repair and empathy, together with low exposure to new situations and low social skills in the academic environment, predicted an attitude towards communication. It is striking that emotional attention is a predictor of emotional skills since generally extreme levels (high or low) of this variable have been associated with the presence of mental health problems.[3]
 
 **Conclusion**
-
+--
 In conclusion, emotional intelligence is not only a "soft skill" but also a foundational competency for effective managerial communication and organizational success in Bangladesh. It is essential to apply and practice the Emotional Intelligence strategies for the betterment of work culture in key industries like the ready-made garments (RMG) sector, IT Sectors, Food & Beverage companies, production sector of Consumable items, Home Appliances manufacturing sectors, Light Engineering farms, Telecommunication sectors and also all the growing start-up companies of the country. By applying the principles of self-awareness, self-regulation, empathy, and social skills, managers can move beyond simply giving directives to building trust, maintaining psychological health, and creating a collaborative work environment in every work place in Bangladesh. 
 
 
 **Reference**
-
+--
 1.	Goleman, D. (1995). Emotional intelligence: Why it can matter more than IQ. Bantam Books.
 2.	Ali, R., & Ahmed, M. S. (2009). The impact of reward and recognition programs on employee’s motivation and satisfaction: an empirical study. International Review of Business Research Papers, 5(4), 270–279.[#](https://www.sciencedirect.com/science/article/pii/S1877042814004236)
 3.	Petrovici, A., & Dobrescu, T. (2013). The role of emotional intelligence in building interpersonal communication skills. In 5th World Conference on Educational Sciences. [#](https://www.sciencedirect.com/science/article/pii/S1877042814004236)
@@ -136,6 +140,9 @@ In conclusion, emotional intelligence is not only a "soft skill" but also a foun
 
 
   
+
+_____
+
 
 
 **_Institute of Business Administration (IBA), Jahangirnagar University, Savar, Dhaka._**
