@@ -151,9 +151,10 @@ _MBA Coursework, BUS 501 - Managerial Communication._
 
 _Submitted to: Baktiar Rana_
 
+[**PDF of the Paper**](https://github.com/AbdullahSalimTurzo/Emotional-Intelligence-in-Managerial-Communication/blob/6d225eb299219b26af041bcaaf383c8731a0122b/Use%20of%20Emotional%20Intelligence%20(BUS%20501).pdf)
 
 **_Corresponding Author:_**
 
-Abdullah Salim Turja | Student | MBA (Weekend) | Batch - 34 | IBA – JU, Dhaka
+Abdullah Salim Turja; Student; MBA (Weekend); Batch - 34; IBA – JU, Dhaka
 
-Email: [abdullahsalim.ibaju@gmail.com ](mailto:abdullahsalim.ibaju@gmail.com )
+Email: [abdullahsalim.ibaju@gmail.com ](mailto:abdullahsalim.ibaju@gmail.com ) 
