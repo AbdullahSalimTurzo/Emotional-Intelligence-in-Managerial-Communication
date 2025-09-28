@@ -128,10 +128,10 @@ In conclusion, emotional intelligence is not only a "soft skill" but also a foun
 **Reference**
 
 1.	Goleman, D. (1995). Emotional intelligence: Why it can matter more than IQ. Bantam Books.
-2.	Ali, R., & Ahmed, M. S. (2009). The impact of reward and recognition programs on employee’s motivation and satisfaction: an empirical study. International Review of Business Research Papers, 5(4), 270–279.[#]([url](https://www.sciencedirect.com/science/article/pii/S1877042814004236))
-3.	Petrovici, A., & Dobrescu, T. (2013). The role of emotional intelligence in building interpersonal communication skills. In 5th World Conference on Educational Sciences. [#]([url](https://www.sciencedirect.com/science/article/pii/S1877042814004236))
-4.	Sanchis-Giménez, L., Lacomba-Trejo, L., Prado-Gascó, V., & Giménez-Espert, M. C. (2020). Attitudes towards communication in nursing students and nurses: Are social skills and emotional intelligence important? International Journal of Environmental Research and Public Health, 17(19), 7261. [https://doi.org/10.3390/ijerph17197261 ]([url](https://doi.org/10.3390/ijerph17197261 ))
-5.	Robinson, L., & Smith, M. A. (n.d.). Stress management techniques and strategies to deal with stress. HelpGuide. Retrieved September 23, 2025, from [https://www.helpguide.org/articles/stress/stress-management.htm]([url](https://www.helpguide.org/articles/stress/stress-management.htm))
+2.	Ali, R., & Ahmed, M. S. (2009). The impact of reward and recognition programs on employee’s motivation and satisfaction: an empirical study. International Review of Business Research Papers, 5(4), 270–279.[#]([https://www.sciencedirect.com/science/article/pii/S1877042814004236]
+3.	Petrovici, A., & Dobrescu, T. (2013). The role of emotional intelligence in building interpersonal communication skills. In 5th World Conference on Educational Sciences. [#]([https://www.sciencedirect.com/science/article/pii/S1877042814004236]
+4.	Sanchis-Giménez, L., Lacomba-Trejo, L., Prado-Gascó, V., & Giménez-Espert, M. C. (2020). Attitudes towards communication in nursing students and nurses: Are social skills and emotional intelligence important? International Journal of Environmental Research and Public Health, 17(19), 7261. [https://doi.org/10.3390/ijerph17197261 ][https://doi.org/10.3390/ijerph17197261]
+5.	Robinson, L., & Smith, M. A. (n.d.). Stress management techniques and strategies to deal with stress. HelpGuide. Retrieved September 23, 2025, from [https://www.helpguide.org/articles/stress/stress-management.htm]([(https://www.helpguide.org/articles/stress/stress-management.htm)]
 
 
   
