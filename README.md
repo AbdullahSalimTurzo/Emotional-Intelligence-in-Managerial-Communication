@@ -149,7 +149,11 @@ _____
 
 _MBA Coursework, BUS 501 - Managerial Communication._
 
-_Submitted to: Baktiar Rana_
+**_Submitted to:_** 
+
+Md. Baktiar Rana, PhD (Faculty)
+
+Institute of Business Administration, Jahangirnagar University (IBA-JU)
 
 [**PDF of the Paper**](https://github.com/AbdullahSalimTurzo/Emotional-Intelligence-in-Managerial-Communication/blob/6d225eb299219b26af041bcaaf383c8731a0122b/Use%20of%20Emotional%20Intelligence%20(BUS%20501).pdf)
 
